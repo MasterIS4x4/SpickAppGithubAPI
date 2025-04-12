@@ -1,0 +1,37 @@
+[
+  {
+    "roumainianWord": "casa",
+    "englishWord": "house",
+    "pictureURL": "./images/house.jpg",
+    "audioURL": "https://example.com/house.mp3",
+    "videoURL": "https://example.com/house.mp4"
+  },
+  {
+    "roumainianWord": "masă",
+    "englishWord": "table",
+    "pictureURL": "https://example.com/table.jpg",
+    "audioURL": "https://example.com/table.mp3",
+    "videoURL": "https://example.com/table.mp4"
+  },
+  {
+    "roumainianWord": "scaun",
+    "englishWord": "chair",
+    "pictureURL": "https://example.com/chair.jpg",
+    "audioURL": "https://example.com/chair.mp3",
+    "videoURL": "https://example.com/chair.mp4"
+  },
+  {
+    "roumainianWord": "fereastră",
+    "englishWord": "window",
+    "pictureURL": "https://example.com/window.jpg",
+    "audioURL": "https://example.com/window.mp3",
+    "videoURL": "https://example.com/window.mp4"
+  },
+  {
+    "roumainianWord": "ușă",
+    "englishWord": "door",
+    "pictureURL": "https://example.com/door.jpg",
+    "audioURL": "https://example.com/door.mp3",
+    "videoURL": "https://example.com/door.mp4"
+  }
+]
