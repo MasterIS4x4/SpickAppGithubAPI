@@ -1,0 +1,98 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Lessons Schema",
+  "description": "Schema for language learning lessons",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "Unique identifier for the lesson. Represents the number of the lesson"
+      },
+      "nameRO": {
+        "type": "string",
+        "description": "Lesson name in Romanian",
+        "optional": false
+      },
+      "nameEN": {
+        "type": "string",
+        "description": "Lesson name in English",
+        "optional": false
+      },
+      "videoUrl": {
+        "type": "string",
+        "format": "uri",
+        "description": "YouTube URL to lesson video"
+      },
+      "words": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "description": "Unique identifier for the word"
+            },
+            "nameRO": {
+              "type": "string",
+              "description": "Word/phrase in Romanian"
+            },
+            "nameEN": {
+              "type": "string",
+              "description": "Word/phrase in English"
+            },
+            "imageUrl": {
+              "oneOf": [
+                {
+                  "type": "string",
+                  "format": "uri"
+                },
+                {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                }
+              ],
+              "description": "URL(s) to image(s) representing the word"
+            },
+            "audioUrl": {
+              "oneOf": [
+                {
+                  "type": "string",
+                  "format": "uri"
+                },
+                {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                }
+              ],
+              "description": "URL(s) to audio file(s) for pronunciation"
+            }
+          }
+        },
+        "required": [
+          "id",
+          "nameRO",
+          "nameEN",
+          "imageUrl",
+          "audioUrl"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "id",
+    "nameRO",
+    "nameEN",
+    "videoUrl",
+    "words"
+  ],
+  "additionalProperties": false
+}

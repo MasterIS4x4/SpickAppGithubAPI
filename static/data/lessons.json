@@ -1,15 +1,113 @@
 [
   {
     "id": "1",
-    "name": "Directions / Directii",
-    "words": ["1", "2", "3"]
+    "nameRO": "Blocuri",
+    "nameEN": "Blocks",
+    "videoUrl": "https://www.youtube.com/watch?v=wbH4fwTBtf4",
+    "words": [
+      {
+        "id": "1",
+        "nameRO": "un bloc",
+        "nameEN": "a block",
+        "imageUrl": [
+          "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/un-bloc.png",
+          "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/un-bloc-2.png"
+        ],
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/un-bloc.mp3"
+      },
+      {
+        "id": "2",
+        "nameRO": "două blocuri",
+        "nameEN": "two blocks",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/doua-blocuri.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/doua-blocuri.mp3"
+      },
+      {
+        "id": "3",
+        "nameRO": "in față",
+        "nameEN": "in front",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-fata.mp3",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-fata-in-fata-blocului.png"
+      },
+      {
+        "id": "4",
+        "nameRO": "în fața blocului",
+        "nameEN": "in front of the block",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-fata-in-fata-blocului.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-fata-blocului.mp3"
+      },
+      {
+        "id": "5",
+        "nameRO": "în spate",
+        "nameEN": "behind",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-spate-in-spatele-blocului.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-spate.mp3"
+      },
+      {
+        "id": "6",
+        "nameRO": "în spatele blocului",
+        "nameEN": "behind the block",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-spate-in-spatele-blocului.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-spatele-blocului.mp3"
+      },
+      {
+        "id": "7",
+        "nameRO": "lângă",
+        "nameEN": "next to",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/langa-langa-bloc.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/langa.mp3"
+      },
+      {
+        "id": "8",
+        "nameRO": "lângă bloc",
+        "nameEN": "next to the block",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/langa-langa-bloc.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/langa-bloc.mp3"
+      }
+    ]
   },
   {
-      "id": "2",
-      "name": "Food / Mancare"
+    "id": "2",
+    "nameRO": "Culori",
+    "nameEN": "Colors",
+    "videoUrl": "https://www.youtube.com/watch?v=wbH4fwTBtf4",
+    "words": [
+      {
+        "id": "7",
+        "nameRO": "lângă",
+        "nameEN": "next to",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/langa-langa-bloc.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/langa.mp3"
+      },
+      {
+        "id": "8",
+        "nameRO": "lângă bloc",
+        "nameEN": "next to the block",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/langa-langa-bloc.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/langa-bloc.mp3"
+      }
+    ]
   },
   {
-      "id": "3",
-      "name": "Health / Sanatate"
+    "id": "3",
+    "nameRO": "Locație",
+    "nameEN": "Location",
+    "videoUrl": "https://www.youtube.com/watch?v=wbH4fwTBtf4",
+    "words": [
+      {
+        "id": "5",
+        "nameRO": "în spate",
+        "nameEN": "behind",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-spate-in-spatele-blocului.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-spate.mp3"
+      },
+      {
+        "id": "6",
+        "nameRO": "în spatele blocului",
+        "nameEN": "behind the block",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-spate-in-spatele-blocului.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-spatele-blocului.mp3"
+      }
+    ]
   }
 ]
