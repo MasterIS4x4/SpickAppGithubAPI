@@ -68,45 +68,171 @@
   },
   {
     "id": "2",
-    "nameRO": "Culori",
-    "nameEN": "Colors",
-    "videoUrl": "https://www.youtube.com/watch?v=wbH4fwTBtf4",
+    "nameRO": "Bună ziua",
+    "nameEN": "Hello",
+    "videoUrl": "https://www.youtube.com/watch?v=xCjUZSz2SxY",
     "words": [
       {
         "id": "7",
-        "nameRO": "lângă",
-        "nameEN": "next to",
-        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/langa-langa-bloc.png",
-        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/langa.mp3"
+        "nameRO": "bună seara",
+        "nameEN": "good evening",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/buna-seara.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/buna-seara.mp3"
       },
       {
         "id": "8",
-        "nameRO": "lângă bloc",
-        "nameEN": "next to the block",
-        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/langa-langa-bloc.png",
-        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/langa-bloc.mp3"
+        "nameRO": "bună ziua",
+        "nameEN": "good day",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/buna-ziua.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/buna-ziua.mp3"
+      },
+      {
+        "id": "9",
+        "nameRO": "la fel",
+        "nameEN": "likewise",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/la-fel.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/la-fel.mp3"
+      },
+      {
+        "id": "10",
+        "nameRO": "la revedere",
+        "nameEN": "goodbye",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/la-revedere.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/la-revedere.mp3"
+      },
+      {
+        "id": "11",
+        "nameRO": "mulțumesc",
+        "nameEN": "thank you",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/multumesc.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/multumesc.mp3"
+      },
+      {
+        "id": "12",
+        "nameRO": "o zi frumoasă",
+        "nameEN": "have a nice day",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/o-zi-frumoasa.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/o-zi-frumoasa.mp3"
+      },
+      {
+        "id": "13",
+        "nameRO": "seară bună",
+        "nameEN": "good evening",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/sera-buna.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/sera-buna.mp3"
+      },
+      {
+        "id": "14",
+        "nameRO": "weekend plăcut",
+        "nameEN": "have a nice weekend",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/weekend-placut.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/2-buna-ziua/weekend-placut.mp3"
       }
     ]
   },
   {
     "id": "3",
-    "nameRO": "Locație",
-    "nameEN": "Location",
-    "videoUrl": "https://www.youtube.com/watch?v=wbH4fwTBtf4",
+    "nameRO": "Numere",
+    "nameEN": "Numbers",
+    "videoUrl": "https://www.youtube.com/watch?v=fRcyy-5Cyno",
     "words": [
       {
-        "id": "5",
-        "nameRO": "în spate",
-        "nameEN": "behind",
-        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-spate-in-spatele-blocului.png",
-        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-spate.mp3"
+        "id": "15",
+        "nameRO": "unu",
+        "nameEN": "one",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/unu.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/unu.mp3"
       },
       {
-        "id": "6",
-        "nameRO": "în spatele blocului",
-        "nameEN": "behind the block",
-        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-spate-in-spatele-blocului.png",
-        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/1-blocuri/in-spatele-blocului.mp3"
+        "id": "16",
+        "nameRO": "doi",
+        "nameEN": "two",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/doi.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/doi.mp3"
+      },
+      {
+        "id": "17",
+        "nameRO": "trei",
+        "nameEN": "three",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/trei.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/trei.mp3"
+      },
+      {
+        "id": "18",
+        "nameRO": "patru",
+        "nameEN": "four",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/patru.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/patru.mp3"
+      },
+      {
+        "id": "19",
+        "nameRO": "cinci",
+        "nameEN": "five",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/cinci.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/cinci.mp3"
+      },
+      {
+        "id": "20",
+        "nameRO": "șase",
+        "nameEN": "six",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/sase.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/sase.mp3"
+      },
+      {
+        "id": "21",
+        "nameRO": "șapte",
+        "nameEN": "seven",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/sapte.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/sapte.mp3"
+      },
+      {
+        "id": "22",
+        "nameRO": "opt",
+        "nameEN": "eight",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/opt.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/opt.mp3"
+      },
+      {
+        "id": "23",
+        "nameRO": "nouă",
+        "nameEN": "nine",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/noua.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/noua.mp3"
+      },
+      {
+        "id": "24",
+        "nameRO": "zece",
+        "nameEN": "ten",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/zece.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/zece.mp3"
+      },
+      {
+        "id": "25",
+        "nameRO": "un minut",
+        "nameEN": "one minute",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/un-minut.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/un-minut.mp3"
+      },
+      {
+        "id": "26",
+        "nameRO": "două minute",
+        "nameEN": "two minutes",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/doua-minute.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/doua-minute.mp3"
+      },
+      {
+        "id": "27",
+        "nameRO": "o comandă",
+        "nameEN": "an order",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/o-comanda.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/o-comanda.mp3"
+      },
+      {
+        "id": "28",
+        "nameRO": "două comenzi",
+        "nameEN": "two orders",
+        "imageUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/doua-comenzi.png",
+        "audioUrl": "https://masteris4x4.github.io/SpickAppGithubAPI/data/3-numere/doua-comenzi.mp3"
       }
     ]
   }
